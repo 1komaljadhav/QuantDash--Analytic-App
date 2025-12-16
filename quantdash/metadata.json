@@ -1,0 +1,5 @@
+{
+  "name": "QuantDash",
+  "description": "Real-time trading analytics dashboard for crypto markets with live charts, spread analysis, and Z-score monitoring.",
+  "requestFramePermissions": []
+}
